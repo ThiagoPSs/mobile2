@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">cabesinha</string>
+    <string name="teste1">Titulo</string>
+    <string name="jogar">JOGAR</string>
+    <string name="configuração">CONFIGURAÇÂO</string>
+    <string name="sair">SAIR</string>
+    <string name="som">SOM</string>
+    <string name="lingua">Lingua</string>
+    <string name="créditos">CRÉDITOS</string>
+    <string name="name1">Thiago Pereira Silva</string>
+    <string name="nome">Mateus de Lima Alves</string>
+    <string name="paleta">paleta</string>
+    <string name="vida">Vida</string>
+    <string name="ataque">Ataque</string>
+    <string name="Defesa">Defesa</string>
+    <string name="Agilidade">agilidade</string>
+</resources>
